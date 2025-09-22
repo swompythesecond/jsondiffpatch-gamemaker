@@ -82,3 +82,7 @@ var patched5 = JDP_Patch(a5, diff5);
 show_debug_message("Patched5: " + patched5);
 var unpatched5 = JDP_Unpatch(b5, diff5);
 show_debug_message("Unpatched5: " + unpatched5);
+```
+## 📄 License
+
+MIT (or zlib) — do whatever you want but keep the copyright notice.
